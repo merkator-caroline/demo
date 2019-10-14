@@ -1,6 +1,13 @@
+<<<<<<< HEAD
 dit is een conflict! ! ! ! 
 yet another conflict
 
 i
 blablablabal
+
+##############
+#WILLY_PROGRAM#
+###############
+WILLY_STATS=25
+WILLY_EYE=-5
 
