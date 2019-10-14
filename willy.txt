@@ -1,5 +1,5 @@
-dit is een conflict! ! ! ! 
-fjfjfjf
-i
-blablablabal
-
+###############
+#WILLY_PROGRAM#
+###############
+WILLY_STATS=25
+WILLY_EYE=-5
